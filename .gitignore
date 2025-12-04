@@ -1,3 +1,5 @@
 # Ignore IntelliJ files
 .idea
 **.iml
+
+out
